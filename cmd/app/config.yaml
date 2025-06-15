@@ -1,0 +1,2 @@
+env : "local" #local, dev, prod
+add : "localhost:8080"
